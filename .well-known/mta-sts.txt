@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: ppgl-com.mail.protection.outlook.com
 mx: ppgl-com.mail.eo.outlook.com
 max_age: 604800
